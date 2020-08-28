@@ -1,0 +1,45 @@
+1.1.0	Update for KSP 1.8.
+			Added config for Breaking Ground DLC suggested by kcs123
+			Disabled RT-1, replaced by stock engine.
+			Fixes to tech tree suggested by FreeThinker
+			Fixes to Intersteller suggested by FreeThinker
+			Change to Custom Barn Kit suggested by kcs123
+			Change to DMagic Orbital science suggested by kcs123
+			Added config for Infernal Robitcs Next suggested by kcs123
+			Added config for PEBKAC Launch Escape System suggested by oOScarfacEOo
+			Added icons by Tonas1997
+
+			
+1.0.7	Added the rest of the changed parts for 1.7. Derp.
+			Reduced cost of Custom Fuel Tanks node
+
+1.0.6	Fix misplaced .75m Waste HexCan for TAC Life Support.
+
+1.0.5	Re-disabled the CustomBarnKit.cfg.
+			Added compatabiltiy for 1.7
+
+1.0.4	Fixed the fix for LV10 attachment nodes that I failed to fix.
+
+1.0.3	Incorporated ModZero's fix for LV05 and LV10 attachment nodes when Restock is installed
+			and Missing History is not.
+
+1.0.2 Fixed Real Plume configs to eliminate MM warnings.
+
+1.0.1 Fixed tier 13 costs
+			Added RealPlume configs
+			Added theonegalen's configs for AirplanesPlus, MAD, Mk3Airliner, ReStockPlus, KAX, TAC Self Destruct
+
+1.0.0	Added theonegalen's aero configs
+			Adjustment of the starting parts suggested by MaltYebisu
+			Standardized engine placement
+			More mod configs added.
+0.9.1 Fix borked engines
+0.9.0	Fix to Making History config
+			Moved Solar Panels earlier
+			Balancing
+			Added CFG for Custom Barn Kit, switch upgrade costs for VAB/Lanchpad and SPH/Runway
+
+0.8.1	Fix for Antenna not showing at start
+			BARIS config added
+			
+0.8.0 Initial Beta release
