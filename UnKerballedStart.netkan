@@ -1,13 +1,11 @@
 spec_version: v1.30
 identifier: UnKerballedStart
 name: UnKerballed Start
-abstract >-
-  This is an unmanned start tech tree structured around early probes and aircraft. Manned capsules become available as later tech.
+abstract: An unmanned start tech tree structured around early probes and aircraft. Manned capsules become available as later tech.
 license: CC-BY-NC-SA-4.0
 author:
   - SpinkAkron
   - theoneGalen
-$kref: '#/ckan/github/theonegalen/UnKerballedStart'
 $vref: '#/ckan/ksp-avc'
 resources:
   homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/196589-*
@@ -15,6 +13,7 @@ tags:
   - science
   - tech-tree
   - career
+download: https://github.com/theonegalen/UnKerballedStart/archive/refs/tags/v1.2.0.zip
 install:
   - find: UnKerballedStart
     install_to: GameData
