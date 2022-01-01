@@ -1,6 +1,6 @@
 {"NAME":"UnKerballedStart",
 "URL":"https://raw.githubusercontent.com/theonegalen/UnKerballedStart/master/UnKerballedStart.version",
-"DOWNLOAD":"https://github.com/theonegalen/UnKerballedStart/archive/refs/tags/v1.3.0.zip",
+"DOWNLOAD":"https://github.com/theonegalen/UnKerballedStart/releases/download/v1.3.0/UnKerballedStart-1.3.0.zip",
 "CHANGE_LOG_URL":"https://github.com/theonegalen/UnKerballedStart/releases",
 "VERSION":{"MAJOR":1,"MINOR":3,"PATCH":0,"BUILD":0},
 "KSP_VERSION":{"MAJOR":1,"MINOR":12,"PATCH":2},
