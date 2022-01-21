@@ -1,8 +1,14 @@
 
-Galen/WarbirdCockpits/Props/00 ASET PROPS/TabloIndicator/Aircraft/on_APU_ON_Indicator.cfg
-
 *.bak
 *.exe
 *.ckan
 
+!KSP*1.12.2*/
+
 KSP*1.12.2*/*
+
+!KSP*1.12.2*/GameData/
+
+KSP*1.12.2*/GameData/*
+
+!KSP*1.12.2*/GameData/UnKerballedStart/
