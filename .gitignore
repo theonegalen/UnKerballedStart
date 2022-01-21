@@ -1,0 +1,14 @@
+
+!KSP*1.12.2*/
+
+KSP*1.12.2*/*
+
+!KSP*1.12.2*/GameData/
+
+KSP*1.12.2*/GameData/*
+
+!KSP*1.12.2*/GameData/UnKerballedStart/*
+
+*.bak
+*.exe
+*.ckan
