@@ -1,0 +1,42 @@
+Engine Progression Overview 25.11.2021 veronika.kerm
+
+part    		us			them
+cherenkov		advNuclearPropulsion(9)	improvedNuclearPropulsion(8)
+rcs-block-multi-2	advFlightControl
+rcs-block-multi-mini-2	advFlightControl	flightControl
+linearRcs		stability		advFlightControl
+rcs block		?x			advFlightControl
+small linear rcs	?x			stability
+
+Sustainer and Lifert engines:					thrust*1.1665	vac-isp
+stromboli		advRocketry		advRocketry		46	h370
+compsognatus		advRocketry		advRocketry		99	m335
+vesuvius		heavyRocketry		heavierRocketry		268	h425
+dart-aerospike		?heavierRocketry	specializedRocketry9	210	k340
+deinonychus		heavierRocketry		heavyRocketry		536	m342
+caravel			heavierRocketry		specializedRocketry8	495	k320
+erebus			heavierRocketry		rocketry7		641	h430
+iguanodon		rocketry7		heavierRocketry		1166	m340
+fuji			rocketry7		veryHeavyRocketry	1224	h422
+allosaur		veryHeavyRocketry	veryHeavyRocketry	2158	m345
+etna			veryHeavyRocketry	experimentalRocketry	3324	h410
+tyrannosaur		experimentalRocketry	veryHeavyRocketry	4829	m342
+
+Vacuum engines:
+hecate			propulsionSystems	heavierRocketry		64	h465
+hawk			propulsionSystems	heavyRocketry		13	m382
+buzzard			precisionPropulsion	heavyRocketry		105	m375
+pavonis			precisionPropulsion	rocketry7		168	h468
+schnautzer		precisionPropulsion	specializedRocketry8	128	k350
+harrier			specializedRocketry7	heavierRocketry		350	m376
+ulysses			specializedRocketry7	veryHeavyRocketry	454	h458
+eagle			specializedRocketry8	veryHeavyRocketry	490	m382
+tharsis			specializedRocketry8	experimentalRocketry	420	h468
+vulture			specializedRocketry9	experimentalRocketry	1166	m386
+
+4 advRocketry
+5 heavyRocketry		propulsionSystems
+6 heavierRocketry	precisionPropulsion
+7 rocketry7		specializedRocketry7
+8 veryHeavyRocketry	specializedRocketry8
+9 experimentalRocketry	specializedRocketry9
